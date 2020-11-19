@@ -1,0 +1,7 @@
+id=gpay-wear-down
+name=Google Pay WearOS Downgrade
+version=V2
+versionCode=1
+author=joao.amaro@gmail.com
+description=Module to downgrade Google Pay on Wear OS Pie to Oreo version to avoid unsupported country message
+support=https://github.com/cinzas/magisk-gpay-wearos-downgrade
