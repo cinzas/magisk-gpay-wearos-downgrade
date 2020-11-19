@@ -1,0 +1,1 @@
+# magisk-gpay-wearos-downgrade
