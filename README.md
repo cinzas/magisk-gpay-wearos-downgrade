@@ -4,7 +4,7 @@ This is a magisk module for Android Wear OS.
 
 It will downgrade Google Pay for a versions that will not block you based on the country.
 
-Because Google disable the app everytime it detects, it runs automatically and enables the app every 2 hours.
+Because Google disable the app everytime it detects, it runs automatically and enables the app every 30 mins
 
 Should be enought for daily usage.
 
